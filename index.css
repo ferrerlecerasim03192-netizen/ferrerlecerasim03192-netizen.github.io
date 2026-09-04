@@ -1,1 +1,27 @@
-
+body {
+  background-color:#fcd5f6;
+}
+header {
+  background-color:#97418e;
+}
+body {
+  background-color:#fcd5f6;
+  color: white;
+}
+  img {
+    display:block;
+    margin:25px auto;
+  }
+body {
+  background-color:#fcd5f6;
+  color: white;
+  text-algin;center;
+}
+header {
+  background-color:#97418e;
+  height:3cm;
+}
+  hl{
+    padding:1cm;
+    margin:0;
+  }
